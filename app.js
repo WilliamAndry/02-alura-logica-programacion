@@ -53,4 +53,7 @@ function reiniciarJuego(){
     document.querySelector('#reiniciar').setAttribute('disabled','true');
 }
 
-condicionesIniciales();    
+
+condicionesIniciales();
+
+    
